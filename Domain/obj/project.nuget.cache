@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0I2O3cC1+iW7JTe3uIVAerBEVuVoljUV/KZSLmbl6JgmFMgwfLjJOG7Dk6J9PSb73JZ6He+yLhX5cgNdcoKgw==",
+  "success": true,
+  "projectFilePath": "E:\\Namava\\visual\\BookOrdering\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

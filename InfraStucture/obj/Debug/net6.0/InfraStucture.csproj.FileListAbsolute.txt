@@ -1,0 +1,17 @@
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.csproj.AssemblyReference.cache
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.AssemblyInfoInputs.cache
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.AssemblyInfo.cs
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.csproj.CoreCompileInputs.cache
+E:\Namava\visual\BookOrdering\InfraStucture\bin\Debug\net6.0\InfraStucture.deps.json
+E:\Namava\visual\BookOrdering\InfraStucture\bin\Debug\net6.0\InfraStucture.dll
+E:\Namava\visual\BookOrdering\InfraStucture\bin\Debug\net6.0\InfraStucture.pdb
+E:\Namava\visual\BookOrdering\InfraStucture\bin\Debug\net6.0\Domain.dll
+E:\Namava\visual\BookOrdering\InfraStucture\bin\Debug\net6.0\Domain.pdb
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.csproj.CopyComplete
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.dll
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\refint\InfraStucture.dll
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.pdb
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\ref\InfraStucture.dll
+E:\Namava\visual\BookOrdering\InfraStucture\bin\Debug\net6.0\InfraStucture.runtimeconfig.json
+E:\Namava\visual\BookOrdering\InfraStucture\obj\Debug\net6.0\InfraStucture.genruntimeconfig.cache
